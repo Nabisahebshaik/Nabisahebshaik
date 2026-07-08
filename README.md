@@ -76,93 +76,105 @@
 
 # 🚀 Featured Projects
 
-## 🔹 Crime Analysis & Prediction System
+## 🚔 Crime Analysis and Prediction System
 
-Machine Learning-based crime prediction platform using Indian crime datasets.
+An AI-powered crime analytics platform that predicts crime trends using historical Indian crime datasets and interactive business intelligence dashboards.
 
 **Tech Stack**
-- Python
-- SQL
-- Machine Learning
-- Power BI
-- Data Warehousing
 
-### Features
-- Crime Trend Prediction
-- K-Means Clustering
-- Random Forest
-- Decision Tree
-- Interactive Dashboards
+`Python` `Machine Learning` `SQL` `Power BI`
+
+### Highlights
+- 📊 Analyzed historical Indian crime datasets.
+- 🤖 Built Decision Tree, Random Forest, and K-Means models.
+- 📈 Developed interactive Power BI dashboards.
+- 📍 Generated actionable insights for crime trend prediction.
 
 ---
 
-## 🔹 Arogya Sathi – AI Medical Chatbot
+## 📱 FD-ISTA – Social Media Trend Analytics Platform
 
-An AI-powered multilingual healthcare assistant.
+An NLP-powered platform that analyzes social media conversations to identify emerging trends, perform sentiment analysis, and forecast topics using graph analytics.
 
 **Tech Stack**
-- Python
-- NLP
-- OCR
-- LLMs
-- Speech Recognition
 
-### Features
-- Medical Document OCR
-- GPT-based Summarization
-- Telugu Voice Support
-- Intelligent Medical Assistant
+`Python` `NLP` `Machine Learning` `Graph Analytics` `Streamlit`
+
+### Highlights
+- 🔍 Sentiment Analysis
+- 🧠 Topic Modeling
+- 📈 Trend Forecasting
+- ⚡ Built scalable data pipelines.
+- 🎨 Developed an interactive Streamlit dashboard.
 
 ---
 
-## 🔹 Hamara Sadak
+## 🩺 Arogya Sathi – AI Medical Chatbot
 
-AI-powered civic issue reporting platform.
+A multilingual AI healthcare assistant that leverages OCR, NLP, LLMs, and speech technologies to improve healthcare accessibility.
 
 **Tech Stack**
-- Node.js
-- Express.js
-- MongoDB
-- AWS
 
-### Features
-- Geo-tagged Complaints
-- AI Image Validation
-- Municipality Dashboard
-- Anonymous Reporting
+`Python` `NLP` `OCR` `LLMs`
+
+### Highlights
+- 📄 Medical document extraction using OCR.
+- 🤖 AI-powered multilingual medical assistant.
+- 📝 Intelligent medical summarization using LLMs.
+- 🎙️ Voice interaction support.
+- 🌐 Improved healthcare accessibility.
 
 ---
 
-## 🔹 CourierX
+## 🌍 Privacy-Preserving Federated Disaster Response Analytics
 
-Full Stack Courier Management System.
+A federated learning platform designed for secure disaster analytics using distributed learning and multimodal data while preserving user privacy.
 
 **Tech Stack**
-- React.js
-- PostgreSQL
-- Node.js
-- Express.js
-- Supabase
 
-### Features
-- Shipment Tracking
-- Admin Dashboard
-- Secure Authentication
-- REST APIs
+`Python` `Federated Learning` `Big Data`
+
+### Highlights
+- 🔐 Privacy-preserving federated learning.
+- 🌐 Distributed model training.
+- 📡 Multimodal data fusion.
+- 📈 Disaster risk prediction.
+- ⚡ Scalable big data analytics.
 
 ---
 
-## 🔹 IoT Greenhouse Management
+## 📦 CourierX – Full Stack Delivery System
 
-Smart greenhouse automation using IoT.
+A modern courier management platform with shipment tracking, secure authentication, and scalable backend services.
 
 **Tech Stack**
-- C++
-- IoT
+
+`React.js` `Node.js` `Express.js` `PostgreSQL` `Supabase`
+
+### Highlights
+- 🚚 Courier booking and shipment tracking.
+- 🔒 Role-Based Access Control (RBAC) authentication.
+- 🌐 RESTful APIs for backend services.
+- 📊 Admin dashboard for logistics management.
+- 📱 Responsive user interface.
 
 ---
 
-## 💼 Experience
+## 🌱 IoT-Based Greenhouse Management System
+
+A smart greenhouse monitoring system that automates environmental monitoring and control using IoT technologies.
+
+**Tech Stack**
+
+`C++` `IoT`
+
+### Highlights
+- 🌡️ Environmental monitoring.
+- 💧 Automated greenhouse control.
+- ⚙️ Object-Oriented Programming using C++.
+- 🌿 Smart agriculture automation.
+
+---## 💼 Experience
 
 ### CRM Developer Intern
 **Salesforce Internship (2025)**
@@ -178,11 +190,6 @@ Smart greenhouse automation using IoT.
 - Worked on ERP modules.
 - Improved user engagement.
 
-### Freelancer
-**Toppr & Kostec (2024)**
-
-- Academic Solution Writer
-- Web Development
 
 ---
 
@@ -190,7 +197,6 @@ Smart greenhouse automation using IoT.
 
 🥈 2nd Prize — Global Goals Hackathon (AIESEC × SRM University AP)
 
-🏅 Semi-Finalist — Google WoW Hackathon 2025
 
 ---
 
@@ -208,9 +214,6 @@ Smart greenhouse automation using IoT.
 ```md
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 ```
 
 ---
