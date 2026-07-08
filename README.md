@@ -154,19 +154,6 @@ Git • GitHub • VS Code • Postman • REST APIs
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nabisahebshaik&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabisahebshaik&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Nabisahebshaik&theme=tokyonight"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
