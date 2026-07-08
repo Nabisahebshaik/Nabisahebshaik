@@ -1,233 +1,197 @@
-# Hi 👋, I'm Nabi Saheb Shaik
+<h1 align="center">Hi 👋, I'm Nabi Saheb Shaik</h1>
+<h3 align="center">Data Science | AI/ML Engineer | Full Stack Developer</h3>
 
-## 🚀 Data Science | AI/ML | Full Stack Developer
-
-🎓 B.Tech Computer Science Engineering (Data Science) Student at SRM University AP  
-💡 Passionate about Artificial Intelligence, Data Science, Machine Learning, Full Stack Development, and Big Data Engineering.  
-🌱 Currently learning Advanced AI, Distributed Systems, Cloud Computing, and Data Engineering.  
-🎯 Looking for Software Engineering, AI/ML, Data Science, and Full Stack Development opportunities.
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Working on AI-powered applications and Data Science projects.
-- 🌱 Exploring LLMs, Generative AI, NLP, and Cloud Technologies.
-- 💻 Interested in Software Engineering, Backend Development, and Scalable Systems.
-- 📊 Love building intelligent dashboards and data-driven solutions.
-- 🤝 Open to collaborating on Open Source, AI, and Web Development projects.
+<p align="center">
+  <a href="https://github.com/Nabisahebshaik">
+    <img src="https://komarev.com/ghpvc/?username=Nabisahebshaik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
+
+🎓 **B.Tech Computer Science Engineering (Data Science)** @ **SRM University AP**
+
+💡 Passionate about building intelligent systems using **Artificial Intelligence, Machine Learning, Data Engineering, and Full Stack Development**.
+
+- 🔭 Building AI-powered applications and scalable software solutions
+- 🌱 Learning **LLMs, Generative AI, Apache Spark, Distributed Systems & Cloud Computing**
+- 💻 Interested in **Software Engineering, AI/ML, Data Engineering, and Backend Development**
+- 📊 Love solving real-world problems using Data Science
+- 🤝 Open to internships, collaborations, and Open Source contributions
+
+---
+
+# 💻 Tech Stack
 
 ### Programming Languages
-- Python
-- C
-- C++
-- C#
-- JavaScript
-- SQL
-- R
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
-### Frontend
-- React.js
-- HTML5
-- CSS3
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Supabase
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
 ### Data Science & AI
-- Pandas
-- NumPy
-- Scikit-Learn
-- Power BI
-- PySpark
-- Machine Learning
-- NLP
-- OCR
-- Transformers
-- LLMs
-- Prompt Engineering
-- Generative AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
 
-### Big Data & Cloud
-- Apache Spark
-- PySpark
-- AWS S3
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Power BI
+Git • GitHub • VS Code • Postman • REST APIs
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚔 Crime Analysis and Prediction System
+### 🚔 Crime Analysis & Prediction System
+**Python • Machine Learning • SQL • Power BI**
 
-An AI-powered crime analytics platform that predicts crime trends using historical Indian crime datasets and interactive business intelligence dashboards.
-
-**Tech Stack**
-
-`Python` `Machine Learning` `SQL` `Power BI`
-
-### Highlights
-- 📊 Analyzed historical Indian crime datasets.
-- 🤖 Built Decision Tree, Random Forest, and K-Means models.
-- 📈 Developed interactive Power BI dashboards.
-- 📍 Generated actionable insights for crime trend prediction.
+- Built ML models (Decision Tree, Random Forest & K-Means)
+- Analyzed Indian crime datasets
+- Developed interactive Power BI dashboards
+- Generated actionable crime trend predictions
 
 ---
 
-## 📱 FD-ISTA – Social Media Trend Analytics Platform
+### 📱 FD-ISTA – Social Media Trend Analytics
 
-An NLP-powered platform that analyzes social media conversations to identify emerging trends, perform sentiment analysis, and forecast topics using graph analytics.
+**Python • NLP • Machine Learning • Graph Analytics • Streamlit**
 
-**Tech Stack**
-
-`Python` `NLP` `Machine Learning` `Graph Analytics` `Streamlit`
-
-### Highlights
-- 🔍 Sentiment Analysis
-- 🧠 Topic Modeling
-- 📈 Trend Forecasting
-- ⚡ Built scalable data pipelines.
-- 🎨 Developed an interactive Streamlit dashboard.
+- Sentiment Analysis
+- Topic Modeling
+- Trend Forecasting
+- Scalable Data Pipelines
+- Interactive Streamlit Dashboard
 
 ---
 
-## 🩺 Arogya Sathi – AI Medical Chatbot
+### 🩺 Arogya Sathi – AI Medical Chatbot
 
-A multilingual AI healthcare assistant that leverages OCR, NLP, LLMs, and speech technologies to improve healthcare accessibility.
+**Python • NLP • OCR • LLMs**
 
-**Tech Stack**
-
-`Python` `NLP` `OCR` `LLMs`
-
-### Highlights
-- 📄 Medical document extraction using OCR.
-- 🤖 AI-powered multilingual medical assistant.
-- 📝 Intelligent medical summarization using LLMs.
-- 🎙️ Voice interaction support.
-- 🌐 Improved healthcare accessibility.
+- Medical Document OCR
+- AI Medical Assistant
+- LLM-based Summarization
+- Voice Interaction
+- Multilingual Healthcare Support
 
 ---
 
-## 🌍 Privacy-Preserving Federated Disaster Response Analytics
+### 🌍 Privacy-Preserving Federated Disaster Response Analytics
 
-A federated learning platform designed for secure disaster analytics using distributed learning and multimodal data while preserving user privacy.
+**Python • Federated Learning • Big Data**
 
-**Tech Stack**
-
-`Python` `Federated Learning` `Big Data`
-
-### Highlights
-- 🔐 Privacy-preserving federated learning.
-- 🌐 Distributed model training.
-- 📡 Multimodal data fusion.
-- 📈 Disaster risk prediction.
-- ⚡ Scalable big data analytics.
+- Privacy-Preserving Analytics
+- Distributed Learning
+- Disaster Risk Prediction
+- Multimodal Data Fusion
 
 ---
 
-## 📦 CourierX – Full Stack Delivery System
+### 📦 CourierX – Full Stack Delivery System
 
-A modern courier management platform with shipment tracking, secure authentication, and scalable backend services.
+**React • Node.js • Express • PostgreSQL • Supabase**
 
-**Tech Stack**
-
-`React.js` `Node.js` `Express.js` `PostgreSQL` `Supabase`
-
-### Highlights
-- 🚚 Courier booking and shipment tracking.
-- 🔒 Role-Based Access Control (RBAC) authentication.
-- 🌐 RESTful APIs for backend services.
-- 📊 Admin dashboard for logistics management.
-- 📱 Responsive user interface.
+- Shipment Tracking
+- Secure Authentication
+- REST APIs
+- Admin Dashboard
 
 ---
 
-## 🌱 IoT-Based Greenhouse Management System
+### 🌱 IoT-Based Greenhouse Management
 
-A smart greenhouse monitoring system that automates environmental monitoring and control using IoT technologies.
+**C++ • IoT**
 
-**Tech Stack**
+- Smart Greenhouse Automation
+- Environmental Monitoring
+- Automated Control System
 
-`C++` `IoT`
+---
 
-### Highlights
-- 🌡️ Environmental monitoring.
-- 💧 Automated greenhouse control.
-- ⚙️ Object-Oriented Programming using C++.
-- 🌿 Smart agriculture automation.
+# 💼 Experience
 
----## 💼 Experience
-
-### CRM Developer Intern
-**Salesforce Internship (2025)**
+### CRM Developer Intern | Salesforce (2025)
 
 - Developed CRM solutions for inventory management.
 - Automated customer and sales workflows.
-- Improved stock visibility.
+- Improved stock visibility and operational efficiency.
 
-### Software Development Intern
-**Sri Vasudha Developers (2024)**
+### Software Development Intern | Sri Vasudha Developers (2024)
 
 - Developed responsive web applications.
-- Worked on ERP modules.
-- Improved user engagement.
-
-
----
-
-## 🏆 Achievements
-
-🥈 2nd Prize — Global Goals Hackathon (AIESEC × SRM University AP)
-
+- Built ERP modules.
+- Enhanced user engagement and content management.
 
 ---
 
-## 📜 Certifications
+# 🏆 Achievements
 
-- Java SE 17 Developer Certification
-- Cisco Networking Academy – Networking Basics
-
----
-
-## 📈 GitHub Stats
-
-> Enable these after replacing `YOUR_GITHUB_USERNAME`.
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-```
+🥈 **2nd Prize — Global Goals Hackathon (AIESEC × SRM University AP)**
 
 ---
 
-## 🌐 Connect With Me
+# 📜 Certifications
 
-- 📧 Email: shaiknabisaheb187@gmail.com
-- 💼 LinkedIn: (https://www.linkedin.com/in/shaik-nabi-saheb/)
-- 💻 GitHub: (https://github.com/Nabisahebshaik)
+- ✅ Java SE 17 Developer Certification
+- ✅ Cisco Networking Academy – Networking Basics
 
 ---
 
-## 💡 Quote
+# 📊 GitHub Analytics
 
-> "Code. Learn. Build. Repeat."
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nabisahebshaik&show_icons=true&theme=tokyonight"/>
 
-⭐ Thanks for visiting my profile!
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabisahebshaik&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Nabisahebshaik&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:shaiknabisaheb187@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shaik-nabi-saheb/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Nabisahebshaik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 💭 Quote
+
+> **"Turning data into insights, ideas into software, and challenges into opportunities."**
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
