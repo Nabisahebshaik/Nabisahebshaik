@@ -53,7 +53,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ### Tools
-Git • GitHub • VS Code • Postman • REST APIs
+Git • GitHub • VS Code • Postman • REST APIs • PowerBI
 
 ---
 
